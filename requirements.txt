@@ -1,0 +1,4 @@
+Flask
+youtube-search-python
+google-generativeai
+python-dotenv
